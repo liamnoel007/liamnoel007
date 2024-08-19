@@ -40,17 +40,6 @@
 [![React](./images/icons/web/react.png)](https://ru.reactjs.org/)
 [![Node.js](./images/icons/web/nodejs.png)](https://nodejs.org/en/)
 
-### 🎨 Графические редакторы:
-
-[![Adobe Photoshop](./images/icons/design/photoshop.png)](https://www.adobe.com/ru/products/photoshop.html)
-[![Adobe Bridge](./images/icons/design/bridge.png)](https://www.adobe.com/ru/products/bridge.html)
-[![Adobe Lightroom](./images/icons/design/lightroom.png)](https://www.adobe.com/ru/products/photoshop-lightroom.html)
-[![Adobe Illustrator](./images/icons/design/illustrator.png)](https://www.adobe.com/ru/products/illustrator.html)
-[![Adobe Indesign](./images/icons/design/indesign.png)](https://www.adobe.com/ru/products/indesign.html)
-[![Adobe Premiere Pro](./images/icons/design/premiere.png)](https://www.adobe.com/ru/products/premiere.html)
-[![Adobe After Effects](./images/icons/design/after_effects.png)](https://www.adobe.com/ru/products/aftereffects.html)
-[![Figma](./images/icons/design/figma.png)](https://www.figma.com/)
-
 ---
 
 ![visitors](https://komarev.com/ghpvc/?username=liamnoel007&label=visitors&color=blue)
